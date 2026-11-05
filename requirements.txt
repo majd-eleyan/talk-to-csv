@@ -1,0 +1,5 @@
+streamlit>=1.66,<2
+pandas>=2.0
+plotly
+openai
+python-dotenv

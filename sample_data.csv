@@ -1,0 +1,123 @@
+Product,Category,Price,Quantity,Revenue,Date,Region,Status
+Jacket,Clothing,64.9,2,129.8,2024-01-13,East,Completed
+Office Chair,Furniture,140.0,3,420.0,2024-02-22,North,Cancelled
+Notebook,Stationery,3.5,1,3.5,2024-01-16,North,Completed
+Office Chair,Furniture,140.0,9,1260.0,2024-11-04,North,Cancelled
+Office Chair,Furniture,140.0,12,1680.0,2024-11-28,West,Completed
+Pen Set,Stationery,8.25,10,82.5,2024-05-22,North,Completed
+Sneakers,Clothing,58.0,7,406.0,2024-06-23,East,Completed
+Office Chair,Furniture,,6,,2024-02-22,North,Pending
+Smartphone,Electronics,520.0,6,3120.0,2024-06-25,East,Completed
+Sneakers,Clothing,58.0,8,464.0,2024-10-01,North,Pending
+Smartphone,Electronics,520.0,9,4680.0,2024-05-30,East,Cancelled
+Office Chair,Furniture,140.0,12,1680.0,2024-02-05,North,Completed
+Desk,Furniture,230.0,2,460.0,2024-04-29,North,Pending
+Desk,Furniture,230.0,8,1840.0,2024-11-21,East,Completed
+Bookshelf,Furniture,95.0,6,570.0,2024-04-17,East,Completed
+T-Shirt,Clothing,15.0,11,165.0,2024-03-28,South,
+Pen Set,Stationery,8.25,7,57.75,2024-05-18,South,Completed
+Laptop,Electronics,850.0,4,3400.0,2024-01-17,East,Pending
+Desk,Furniture,230.0,2,460.0,2024-04-18,East,Completed
+Jacket,Clothing,64.9,8,519.2,2024-07-21,West,Completed
+Desk,Furniture,230.0,3,690.0,2024-05-06,East,Cancelled
+Notebook,Stationery,3.5,10,35.0,2024-07-23,East,Completed
+Headphones,Electronics,75.5,9,679.5,2024-09-09,North,Completed
+Smartphone,Electronics,520.0,3,1560.0,2024-11-17,South,Pending
+T-Shirt,Clothing,15.0,2,30.0,2024-07-16,West,Cancelled
+Pen Set,Stationery,8.25,9,74.25,2024-05-08,North,Completed
+Jacket,Clothing,64.9,9,584.1,2024-05-16,East,Completed
+Desk,Furniture,230.0,7,1610.0,2024-03-21,West,Completed
+Sneakers,Clothing,58.0,12,696.0,2024-05-14,South,Cancelled
+Smartphone,Electronics,520.0,11,5720.0,2024-06-01,South,Completed
+Bookshelf,Furniture,95.0,3,285.0,2024-10-03,North,Cancelled
+Bookshelf,Furniture,95.0,8,760.0,2024-01-10,North,Completed
+Desk,Furniture,230.0,4,920.0,2024-01-30,South,Cancelled
+Smartphone,Electronics,520.0,2,1040.0,2024-09-05,North,Cancelled
+Headphones,Electronics,75.5,3,226.5,2024-12-03,West,Cancelled
+Headphones,Electronics,75.5,5,377.5,2024-09-27,West,Completed
+Stapler,Stationery,12.0,12,144.0,2024-12-19,South,Completed
+Notebook,Stationery,3.5,11,38.5,2024-11-28,East,Pending
+Stapler,Stationery,12.0,8,96.0,2024-03-02,South,Completed
+Smartphone,Electronics,520.0,6,3120.0,2024-01-11,South,Cancelled
+Office Chair,Furniture,140.0,1,140.0,2024-02-06,North,Completed
+Smartphone,Electronics,,1,,2024-06-18,North,Cancelled
+Office Chair,Furniture,140.0,5,700.0,2024-12-08,West,Completed
+Stapler,Stationery,12.0,3,36.0,2024-10-19,West,Completed
+Pen Set,Stationery,8.25,7,57.75,2024-04-07,North,Completed
+Jacket,Clothing,64.9,7,454.3,2024-06-30,West,Pending
+Pen Set,Stationery,8.25,12,99.0,2024-01-28,North,Completed
+Notebook,Stationery,3.5,12,42.0,2024-06-22,North,Completed
+Office Chair,Furniture,140.0,4,560.0,2024-10-01,West,Completed
+Notebook,Stationery,3.5,3,10.5,2024-05-22,West,Completed
+Smartphone,Electronics,520.0,8,4160.0,2024-10-08,North,Completed
+Jacket,Clothing,64.9,9,584.1,2024-01-08,North,Completed
+Headphones,Electronics,75.5,7,528.5,2024-09-05,West,Completed
+Notebook,Stationery,3.5,1,3.5,2024-03-25,West,Completed
+Notebook,Stationery,3.5,5,17.5,2024-08-20,East,Pending
+Sneakers,Clothing,58.0,12,696.0,2024-10-11,West,Completed
+Office Chair,Furniture,140.0,5,700.0,2024-04-21,North,Cancelled
+Sneakers,Clothing,58.0,9,522.0,2024-02-01,East,Completed
+Laptop,Electronics,850.0,10,8500.0,2024-09-01,South,Completed
+Stapler,Stationery,12.0,2,24.0,2024-04-05,North,Cancelled
+Smartphone,Electronics,520.0,11,5720.0,2024-04-30,West,
+T-Shirt,Clothing,15.0,4,60.0,2024-10-23,North,Cancelled
+Smartphone,Electronics,520.0,7,3640.0,2024-12-02,East,Completed
+Office Chair,Furniture,140.0,11,1540.0,2024-06-09,South,Completed
+Notebook,Stationery,3.5,3,10.5,2024-12-09,East,Pending
+Bookshelf,Furniture,95.0,2,190.0,2024-01-05,West,Cancelled
+T-Shirt,Clothing,15.0,2,30.0,2024-02-07,South,Cancelled
+Desk,Furniture,230.0,3,690.0,2024-06-27,North,Completed
+Bookshelf,Furniture,95.0,5,475.0,2024-03-21,West,Cancelled
+Sneakers,Clothing,58.0,5,290.0,2024-11-09,North,Cancelled
+Desk,Furniture,230.0,11,2530.0,2024-02-23,South,Completed
+Smartphone,Electronics,520.0,2,1040.0,2024-10-10,South,Completed
+Desk,Furniture,230.0,10,2300.0,2024-04-17,East,Completed
+Jacket,Clothing,64.9,11,713.9,2024-05-15,West,Completed
+Laptop,Electronics,850.0,2,1700.0,2024-11-20,West,Completed
+Laptop,Electronics,850.0,1,850.0,2024-06-19,South,Completed
+Headphones,Electronics,75.5,12,906.0,2024-08-14,West,Cancelled
+Laptop,Electronics,850.0,2,1700.0,2024-02-08,South,Cancelled
+Laptop,Electronics,850.0,6,5100.0,2024-10-25,South,Pending
+Headphones,Electronics,75.5,1,75.5,2024-06-06,East,Completed
+Bookshelf,Furniture,95.0,4,380.0,2024-12-15,South,Completed
+Bookshelf,Furniture,95.0,9,855.0,2024-07-27,South,Completed
+Headphones,Electronics,75.5,3,226.5,2024-07-30,North,Completed
+Sneakers,Clothing,58.0,6,348.0,2024-07-29,South,Completed
+Headphones,Electronics,75.5,12,906.0,2024-02-25,West,Completed
+Pen Set,Stationery,8.25,4,33.0,2024-04-12,West,Completed
+Desk,Furniture,230.0,4,920.0,2024-04-24,North,Completed
+Notebook,Stationery,3.5,6,21.0,2024-05-22,North,Completed
+Bookshelf,Furniture,,11,,2024-09-17,West,Cancelled
+Bookshelf,Furniture,95.0,1,95.0,2024-02-29,East,Completed
+T-Shirt,Clothing,15.0,5,75.0,2024-01-20,North,Cancelled
+Notebook,Stationery,3.5,6,21.0,2024-06-09,West,Cancelled
+Stapler,Stationery,12.0,2,24.0,2024-07-16,South,Completed
+Laptop,Electronics,850.0,12,10200.0,2024-08-11,North,Cancelled
+Stapler,Stationery,12.0,11,132.0,2024-12-09,South,Completed
+Notebook,Stationery,3.5,2,7.0,2024-12-06,East,Cancelled
+Bookshelf,Furniture,95.0,11,1045.0,2024-03-04,East,Cancelled
+Desk,Furniture,230.0,11,2530.0,2024-07-28,East,Pending
+Sneakers,Clothing,58.0,5,290.0,2024-10-10,South,Completed
+Notebook,Stationery,3.5,11,38.5,2024-07-13,South,Cancelled
+T-Shirt,Clothing,15.0,5,75.0,2024-07-26,North,Completed
+Desk,Furniture,230.0,4,920.0,2024-08-08,East,Pending
+Pen Set,Stationery,8.25,8,66.0,2024-12-11,South,Cancelled
+Pen Set,Stationery,8.25,12,99.0,2024-03-27,North,Completed
+Stapler,Stationery,12.0,11,132.0,2024-11-20,East,Completed
+Office Chair,Furniture,140.0,11,1540.0,2024-06-07,South,Completed
+Headphones,Electronics,75.5,1,75.5,2024-01-24,South,Pending
+T-Shirt,Clothing,15.0,2,30.0,2024-08-21,West,Cancelled
+Office Chair,Furniture,140.0,12,1680.0,2024-12-22,West,Pending
+Notebook,Stationery,3.5,4,14.0,2024-03-16,North,Completed
+Notebook,Stationery,3.5,4,14.0,2024-03-31,West,Completed
+Stapler,Stationery,12.0,4,48.0,2024-03-03,West,Completed
+Pen Set,Stationery,8.25,11,90.75,2024-09-28,East,Pending
+T-Shirt,Clothing,15.0,12,180.0,2024-09-15,West,Cancelled
+Pen Set,Stationery,8.25,3,24.75,2024-08-31,West,Completed
+Office Chair,Furniture,140.0,11,1540.0,2024-05-21,West,Completed
+Desk,Furniture,230.0,8,1840.0,2024-02-09,East,Completed
+Desk,Furniture,230.0,6,1380.0,2024-06-12,North,Completed
+Headphones,Electronics,75.5,4,302.0,2024-07-15,South,Completed
+Smartphone,Electronics,520.0,7,3640.0,2024-07-27,East,Cancelled
+Office Chair,Furniture,140.0,9,1260.0,2024-11-04,North,Cancelled
+Smartphone,Electronics,520.0,8,4160.0,2024-10-08,North,Completed

@@ -1,0 +1,30 @@
+# إعدادات الشكل والسيرفر (Streamlit بيقرأ هاد الملف تلقائياً)
+
+[server]
+maxUploadSize = 20          # نفس الحد اللي بالنظام (MAX_FILE_MB)
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"      # يخفي زر Deploy ويخلي الواجهة نظيفة
+
+[theme]
+base = "light"
+primaryColor = "#2F4BDB"
+backgroundColor = "#F6F7F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#101828"
+borderColor = "#E1E5EC"
+baseRadius = "0.6rem"
+buttonRadius = "0.6rem"
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+codeFont = "IBM Plex Mono:https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap"
+chartCategoricalColors = ["#2F4BDB", "#E8A317", "#0E9F8E", "#C2410C", "#6D5BD0", "#64748B"]
+
+[theme.sidebar]
+backgroundColor = "#0F1B33"
+secondaryBackgroundColor = "#182A4D"
+textColor = "#E8ECF4"
+borderColor = "#2B3D66"
+primaryColor = "#8FA8FF"
